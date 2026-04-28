@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+  title: Aurkibidea
 ---
 # Image Example Page
 
