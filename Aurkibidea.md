@@ -1,6 +1,6 @@
 ---
 layout: page
-  title: Aurkibidea
+title: Aurkibidea
 ---
 # Image Example Page
 
