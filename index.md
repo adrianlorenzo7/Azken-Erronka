@@ -1,14 +1,19 @@
 ---
 layout: home
-title: Home
+title: Dokumentazioa
 ---
-# About Me
+# Egileak:
 
-Hello! This is my new website created with. 
+Oinatz Goiekoetxea, Salah Labiad, Anne Mata, Adrian Lorenzo eta Jagoba Andonegui
 
-### My Goals:
-* Learn how to use Markdown.
-* Build a cool documentation site.
-* Keep things simple!
+# Modulua:
 
-MD makes it really easy to turn these notes into a website.
+Sistema informatiko eta sareetako administrazioa
+
+# Ikastetxea:
+
+CIFP Uni Eibar-Ermua LHII
+
+# Data:
+
+2026-04-29
