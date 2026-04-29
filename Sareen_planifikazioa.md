@@ -11,5 +11,7 @@ Ondoren vlan bakoitzari IP helbide bat jarri genion komando bidez eta horrela ge
 Eta guztia konfiguratu ondoren horrela geratzen da
 <img width="1359" height="688" alt="image" src="https://github.com/user-attachments/assets/80e3951c-4a7a-46ce-8878-68224346eca4" />
 
+Eta ondoren fisikoan montatzen hasi ginen baina L3 konfiguratzerako orduan arazoak izan genituen 
+<img width="1210" height="464" alt="image" src="https://github.com/user-attachments/assets/64060e3c-c61d-48c5-8fd5-08e2ecd9ec9c" />
 
 
