@@ -3,7 +3,8 @@ layout: page
 title: Data base
 ---
 Hasteko datu basearen diseinua egin dugu. MongoDb-tik hartutako datuekin, MariaDB-n datu base bat sortu dugu, datuak laburtuz.
-
+![captura1](img/image%20(1).png)
+![captura1](img/image.png)
 Hauek dira MariaDB-n sortutako query-ak eta haien azalpenak:
 ![captura1](img/5.png)
 ![captura1](img/4.png)
@@ -24,10 +25,10 @@ Eta hauek dira MongoDB-n sortutako kontsultak eta haien azalpenak:
 ![captura1](img/8.png)
 ![captura1](img/7.png)
 ![captura1](img/6.png)
-![captura1](img/image%20(1).png)
+
 ![captura1](img/image%20(2).png)
 ![captura1](img/image%20(3).png)
 ![captura1](img/image%20(4).png)
-![captura1](img/image.png)
+
 
 
