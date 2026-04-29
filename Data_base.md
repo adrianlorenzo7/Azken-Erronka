@@ -10,7 +10,9 @@ Hauek dira MariaDB-n sortutako query-ak eta haien azalpenak:
 ![captura1](img/3.png)
 ![captura1](img/2.png)
 ![captura1](img/1.png)
+
 Eta hauek dira MongoDB-n sortutako kontsultak eta haien azalpenak:
+
 ![captura1](img/16.png)
 ![captura1](img/15.png)
 ![captura1](img/14.png)
