@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sistema Eragileak
+---
+
 <h2>Urrutiko kudeaketa</h2>
 Zerbitzariaren kudeaketa erosoagoa eta malguagoa izan dadin, urrutiko sarbide bikoitza konfiguratu dugu:
 <ul><li>SSH : Terminal bidezko kudeaketa segurua ahalbidetzeko, SSH zerbitzua martxan jarri dugu. Bezero makina batetik terminal bidezko kontrol osoa daukagula egiaztatu dugu.</li>
