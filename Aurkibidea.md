@@ -2,10 +2,8 @@
 layout: page
 title: Aurkibidea
 ---
-# Image Example Page
-
-Here is a picture I added to my project:
-
-![Alt text: A description of the image](images/image.jpg)
-
-> **Note:** Make sure the filename in the code matches your actual file (e.g., .jpg, .png, or .gif).
+1. ## Markatze Lengoaiak
+2. ## Sareen Planifikazioa
+3. ## Sistema Eragileak
+4. ## Digitalizazioa
+5. ## Data Base
