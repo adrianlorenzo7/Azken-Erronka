@@ -5,7 +5,7 @@ title: Dokumentazioa
 ### Egileak:
 Oinatz Goiekoetxea, Salah Labiad, Anne Mata, Adrian Lorenzo eta Jagoba Andonegui
 
-![captura1](download.png)
+![captura1](download.jpg)
 
 ### Modulua:
 Sistema informatiko eta sareetako administrazioa
