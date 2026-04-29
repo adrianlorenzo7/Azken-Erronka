@@ -19,11 +19,11 @@ Hasteko datu basearen diseinua egin dugu. MongoDb-tik hartutako datuekin, MariaD
 ![captura1](img/8.png)
 ![captura1](img/7.png)
 ![captura1](img/6.png)
-![captura1](img/image1.png)
-![captura1](img/image2.png)
-![captura1](img/image3.png)
-![captura1](img/image4.png)
-![captura1](img/image5.png)
+![captura1](img/image (1).png)
+![captura1](img/image (2).png)
+![captura1](img/image (3).png)
+![captura1](img/image (4).png)
+![captura1](img/image (5).png)
 ![captura1](img/image.png)
 
 
