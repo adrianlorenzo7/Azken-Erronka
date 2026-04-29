@@ -3,6 +3,8 @@ Hasieran Lucidchart erabilita gure sarea era eskematikoan diseinatu genuen. Lehe
 
 Sareko eskema egin ondoren, packet tracer en sare guztiak vlan ekin jarri genuen eta sare bakoitzeko vlan bat dugu <img width="448" height="233" alt="image" src="https://github.com/user-attachments/assets/eda7f4ad-bec7-47fc-bb7c-3f67616677a6" />
 Ondoren vlan bakoitzari IP helbide bat jarri genion komando bidez eta horrela geratu da vlan en IP helbideak <img width="803" height="535" alt="image" src="https://github.com/user-attachments/assets/16a849f7-cd7e-4bf8-b5a2-f2bfbc453486" />
+Eta guztia konfiguratu ondoren horrela geratzen da
+<img width="1359" height="688" alt="image" src="https://github.com/user-attachments/assets/80e3951c-4a7a-46ce-8878-68224346eca4" />
 
 
 
