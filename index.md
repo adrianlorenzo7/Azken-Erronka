@@ -2,11 +2,11 @@
 layout: home
 title: Dokumentazioa
 ---
-# Egileak:
+### Egileak:
 Oinatz Goiekoetxea, Salah Labiad, Anne Mata, Adrian Lorenzo eta Jagoba Andonegui
-# Modulua:
+### Modulua:
 Sistema informatiko eta sareetako administrazioa
-# Ikastetxea:
+### Ikastetxea:
 CIFP Uni Eibar-Ermua LHII
-# Data:
+### Data:
 2026-04-29
